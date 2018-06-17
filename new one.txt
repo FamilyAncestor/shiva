@@ -1,2 +1,1 @@
-commit chec.
-....>
+commit check
